@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">APAC_DAM_Browser</string>
+    <string name="star_off">star_off</string>
+    <string name="browser">Browser</string>
+    <string name="favourites">Favourites</string>
+    <string name="search">Search</string>
+    <string name="favourites_title">Favourites</string>
+    <string name="eliminado">"Eliminado: "</string>
+</resources>
