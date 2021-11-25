@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">APAC_DAM_Browser</string>
+    <string name="browser">Navegador</string>
+    <string name="favourites">Favoritos</string>
+    <string name="search">Buscar</string>
+    <string name="favourites_title">Favoritos</string>
+    <string name="eliminado">Eliminado:</string>
+    <string name="star_off">star_off</string>
+</resources>
